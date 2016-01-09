@@ -10,6 +10,7 @@ Menu, Tray, Icon, ico\main.ico
 Menu, Tray, Tip, GitAutoPush
 
 
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;             SETUP
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -27,6 +28,7 @@ return
 
 
 ;;;;;;;;;;;;;;
+
 
 tray()
 {
