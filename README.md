@@ -2,7 +2,7 @@
 
 ![push-me](https://cloud.githubusercontent.com/assets/2915643/12209620/8090325c-b654-11e5-9e39-39b4c5da2882.png)
 
-This is a very small tool for simple GitHub commiting, pushing &amp; syncing.
+This is a very small tool for simple GitHub commiting, pushing & syncing.
 Written with http://autohotkey.com/
 
 It runs in the tray and performs tasks similiar to the GitHub Desktop client, but fast and easy.
