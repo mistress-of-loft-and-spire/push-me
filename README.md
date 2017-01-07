@@ -1,4 +1,4 @@
-# push-me
+﻿# push-me
 
 ![push-me](https://cloud.githubusercontent.com/assets/2915643/12209620/8090325c-b654-11e5-9e39-39b4c5da2882.png)
 
@@ -10,26 +10,30 @@ Also in the future it might automatically check for updates and pull them and al
 
 ## To-Do
 
-* Decide on a name
+- [x] Decide on a name
 
-* Pull changes on start
+- [ ] Pull changes on start
 
-* Automatically pull changes
+- [ ] Automatically pull changes
 
-* Add automatic commits (every x seconds/minutes)
+- [ ] Add automatic commits (every x seconds/minutes)
 
-* Easy .gitignore adding
+- [ ] Easy .gitignore adding
 
-* Remove GitHub icon (I don't think it's allowed to use it)
+- [ ] More icons!
 
-* More icons!
+- [ ] Animated icons!
 
-* Animated icons!
+- [ ] Create new repository from scratch
 
-* Create new repository from scratch
+- [ ] Clone repositories from GitHub?
 
-* Make status message actually work (`Everything is up to date` → `Checking for updates...` → `Pulling changes...`
+- [ ] gist support?
 
-* More magic!!
+- [ ] Updates? How do? Add log?
 
-* Make these actual issues
+- [ ] Make status message actually work (`Everything is up to date` → `Checking for updates...` → `Pulling changes...`
+
+- [ ] More magic!!
+
+- [ ] Make these actual issues
